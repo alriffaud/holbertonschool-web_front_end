@@ -81,7 +81,7 @@ body{
     margin: var(--nav-item-margin);
 }
 
-.nav .nav:link{
+.nav .nav-link{
     display: block;
     padding: 0.5rem 1rem;
 }
